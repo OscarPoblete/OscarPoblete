@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola Gente 👋
 
-<!--
-**OscarPoblete/OscarPoblete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de Datos en Gesintel**
+:pencil: **Experto en Web Scrapping**
+:tv: **Fanatico del Cine y las series de Television**
 
-Here are some ideas to get you started:
+### Vias De Contacto
+![Website](https://img.shields.io/website?url=http%3A%2F%2Flinkedin.com%2Fin%2Fospo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes más utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPoblete&theme=dark)
+
+## Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OscarPoblete&show_icons=true&count_private=true&hide=prs&theme=dark)
