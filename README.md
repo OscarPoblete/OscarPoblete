@@ -5,7 +5,7 @@
 :tv: **Fanatico del Cine y las series de Television**
 
 ### Vías de Contacto
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](http://linkedin.com/in/ospo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](http://linkedin.com/in/ospo)
 
 ## Lenguajes más utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPoblete&theme=dark)
